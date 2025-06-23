@@ -1,0 +1,32 @@
+{
+    "Title": "Desi Boyz",
+    "Year": "2011",
+    "Rated": "Not Rated",
+    "Released": "25 Nov 2011",
+    "Runtime": "122 min",
+    "Genre": "Comedy, Drama, Romance",
+    "Director": "Rohit Dhawan",
+    "Writer": "Rohit Dhawan, Renuka Kunzru, Milap Zaveri",
+    "Actors": "Akshay Kumar, John Abraham, Deepika Padukone",
+    "Plot": "Two friends lose their jobs, then part bitterly after they get exposed as male strippers.",
+    "Language": "Hindi, Punjabi, English",
+    "Country": "India",
+    "Awards": "2 wins & 10 nominations",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BZmM5ZDVhZTktNDFhYS00NTgyLTg4MzQtZmZlNmIyNGUyNDQyXkEyXkFqcGc@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "5.7/10"
+        }
+    ],
+    "Metascore": "N/A",
+    "imdbRating": "5.7",
+    "imdbVotes": "15,421",
+    "imdbID": "tt1985981",
+    "Type": "movie",
+    "DVD": "N/A",
+    "BoxOffice": "$1,078,826",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+}
